@@ -299,19 +299,15 @@ final List<Temple> jyotirlingaList = [
   Temple(
     name: 'Baidyanath',
     location: 'Uttarakhand',
-    description:
-        'Baidyanath Temple, situated in the picturesque Garhwal Himalayas, Uttarakhand, India, is a sacred Hindu pilgrimage site and one of the four Char Dham destinations, revered for its stunning natural beauty and spiritual significance as the abode of Lord Vishnu.',
-    imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/1024px-Badrinath_Temple_%2C_Uttarakhand.jpg',
+    description:'Baidyanath Temple, situated in the picturesque Garhwal Himalayas, Uttarakhand, India, is a sacred Hindu pilgrimage site and one of the four Char Dham destinations, revered for its stunning natural beauty and spiritual significance as the abode of Lord Vishnu.',
+   imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg/1024px-Badrinath_Temple_%2C_Uttarakhand.jpg',
     packagePrice: 19000,
   ),
   Temple(
     name: 'Kashi Vishwanath',
     location: 'Varanasi',
-    description:
-        'Kashi Vishwanath Temple, located on the banks of the Ganges River in Varanasi, India, is one of the twelve Jyotirlingas and a sacred Hindu shrine revered for its spiritual significance and historical importance as a revered abode of Lord Shiva.',
-    imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg',
+    description: 'Kashi Vishwanath Temple, located on the banks of the Ganges River in Varanasi, India, is one of the twelve Jyotirlingas and a sacred Hindu shrine revered for its spiritual significance and historical importance as a revered abode of Lord Shiva.',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg',
     packagePrice: 20999,
   ),
   Temple(
